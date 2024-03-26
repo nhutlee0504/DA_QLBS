@@ -9544,23 +9544,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\VO QUOC CHUONG\\.nuget\\packages\\": {},
+    "C:\\Users\\ADMIN\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GIt\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\DA_Xuong.csproj",
+      "projectUniqueName": "D:\\Mon_Dang_Hoc\\C_Shapes_4\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\DA_Xuong.csproj",
       "projectName": "DA_Xuong",
-      "projectPath": "D:\\GIt\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\DA_Xuong.csproj",
-      "packagesPath": "C:\\Users\\VO QUOC CHUONG\\.nuget\\packages\\",
-      "outputPath": "D:\\GIt\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\obj\\",
+      "projectPath": "D:\\Mon_Dang_Hoc\\C_Shapes_4\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\DA_Xuong.csproj",
+      "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+      "outputPath": "D:\\Mon_Dang_Hoc\\C_Shapes_4\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\VO QUOC CHUONG\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -9616,7 +9616,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

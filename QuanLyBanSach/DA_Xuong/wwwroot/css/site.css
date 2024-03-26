@@ -16,3 +16,18 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.body-sale {
+    background-color: #DAECDC;
+}
+
+.spGiamGia {
+    background-color: #467B76;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+}
+
+.thesale {
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+}
