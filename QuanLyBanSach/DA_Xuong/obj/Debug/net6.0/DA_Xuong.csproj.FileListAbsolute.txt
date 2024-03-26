@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 D:\Mon_Dang_Hoc\C_Shapes_4\DA_QLBS\QuanLyBanSach\DA_Xuong\bin\Debug\net6.0\appsettings.Development.json
 D:\Mon_Dang_Hoc\C_Shapes_4\DA_QLBS\QuanLyBanSach\DA_Xuong\bin\Debug\net6.0\appsettings.json
 D:\Mon_Dang_Hoc\C_Shapes_4\DA_QLBS\QuanLyBanSach\DA_Xuong\bin\Debug\net6.0\DA_Xuong.staticwebassets.runtime.json
@@ -224,6 +225,8 @@ D:\Mon_Dang_Hoc\C_Shapes_4\DA_QLBS\QuanLyBanSach\DA_Xuong\obj\Debug\net6.0\refin
 D:\Mon_Dang_Hoc\C_Shapes_4\DA_QLBS\QuanLyBanSach\DA_Xuong\obj\Debug\net6.0\DA_Xuong.pdb
 D:\Mon_Dang_Hoc\C_Shapes_4\DA_QLBS\QuanLyBanSach\DA_Xuong\obj\Debug\net6.0\DA_Xuong.genruntimeconfig.cache
 D:\Mon_Dang_Hoc\C_Shapes_4\DA_QLBS\QuanLyBanSach\DA_Xuong\obj\Debug\net6.0\ref\DA_Xuong.dll
+=======
+>>>>>>> Stashed changes
 D:\QLBS\DA_QLBS\QuanLyBanSach\DA_Xuong\bin\Debug\net6.0\appsettings.Development.json
 D:\QLBS\DA_QLBS\QuanLyBanSach\DA_Xuong\bin\Debug\net6.0\appsettings.json
 D:\QLBS\DA_QLBS\QuanLyBanSach\DA_Xuong\bin\Debug\net6.0\DA_Xuong.staticwebassets.runtime.json
@@ -232,6 +235,7 @@ D:\QLBS\DA_QLBS\QuanLyBanSach\DA_Xuong\bin\Debug\net6.0\DA_Xuong.deps.json
 D:\QLBS\DA_QLBS\QuanLyBanSach\DA_Xuong\bin\Debug\net6.0\DA_Xuong.runtimeconfig.json
 D:\QLBS\DA_QLBS\QuanLyBanSach\DA_Xuong\bin\Debug\net6.0\DA_Xuong.dll
 D:\QLBS\DA_QLBS\QuanLyBanSach\DA_Xuong\bin\Debug\net6.0\DA_Xuong.pdb
+<<<<<<< Updated upstream
 D:\QLBS\DA_QLBS\QuanLyBanSach\DA_Xuong\bin\Debug\net6.0\Humanizer.dll
 D:\QLBS\DA_QLBS\QuanLyBanSach\DA_Xuong\bin\Debug\net6.0\MessagePack.dll
 D:\QLBS\DA_QLBS\QuanLyBanSach\DA_Xuong\bin\Debug\net6.0\MessagePack.Annotations.dll
@@ -426,6 +430,8 @@ D:\QLBS\DA_QLBS\QuanLyBanSach\DA_Xuong\bin\Debug\net6.0\runtimes\win\lib\net6.0\
 D:\QLBS\DA_QLBS\QuanLyBanSach\DA_Xuong\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 D:\QLBS\DA_QLBS\QuanLyBanSach\DA_Xuong\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 D:\QLBS\DA_QLBS\QuanLyBanSach\DA_Xuong\obj\Debug\net6.0\DA_Xuong.csproj.AssemblyReference.cache
+=======
+>>>>>>> Stashed changes
 D:\QLBS\DA_QLBS\QuanLyBanSach\DA_Xuong\obj\Debug\net6.0\DA_Xuong.GeneratedMSBuildEditorConfig.editorconfig
 D:\QLBS\DA_QLBS\QuanLyBanSach\DA_Xuong\obj\Debug\net6.0\DA_Xuong.AssemblyInfoInputs.cache
 D:\QLBS\DA_QLBS\QuanLyBanSach\DA_Xuong\obj\Debug\net6.0\DA_Xuong.AssemblyInfo.cs
@@ -444,7 +450,10 @@ D:\QLBS\DA_QLBS\QuanLyBanSach\DA_Xuong\obj\Debug\net6.0\staticwebassets.pack.jso
 D:\QLBS\DA_QLBS\QuanLyBanSach\DA_Xuong\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 D:\QLBS\DA_QLBS\QuanLyBanSach\DA_Xuong\obj\Debug\net6.0\scopedcss\bundle\DA_Xuong.styles.css
 D:\QLBS\DA_QLBS\QuanLyBanSach\DA_Xuong\obj\Debug\net6.0\scopedcss\projectbundle\DA_Xuong.bundle.scp.css
+<<<<<<< Updated upstream
 D:\QLBS\DA_QLBS\QuanLyBanSach\DA_Xuong\obj\Debug\net6.0\DA_Xuong.csproj.Up2Date
+=======
+>>>>>>> Stashed changes
 D:\QLBS\DA_QLBS\QuanLyBanSach\DA_Xuong\obj\Debug\net6.0\DA_Xuong.dll
 D:\QLBS\DA_QLBS\QuanLyBanSach\DA_Xuong\obj\Debug\net6.0\refint\DA_Xuong.dll
 D:\QLBS\DA_QLBS\QuanLyBanSach\DA_Xuong\obj\Debug\net6.0\DA_Xuong.pdb

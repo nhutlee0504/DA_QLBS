@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< Updated upstream
   "Hash": "D9gAbdC7NriHkemwzYSsFoToePESmUIAWd09xo7qKDk=",
+=======
+  "Hash": "Pe56zmWyB0QFxWXRTGObMCa38JGK2OFVuaaWfk2DvCU=",
+>>>>>>> Stashed changes
   "Source": "DA_Xuong",
   "BasePath": "_content/DA_Xuong",
   "Mode": "Default",
@@ -55,6 +59,7 @@
       "OriginalItemSpec": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\DA_Xuong.bundle.scp.css"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\css\\chuong.css",
       "SourceId": "DA_Xuong",
       "SourceType": "Discovered",
@@ -74,6 +79,8 @@
       "OriginalItemSpec": "wwwroot\\css\\chuong.css"
     },
     {
+=======
+>>>>>>> Stashed changes
       "Identity": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\css\\site.css",
       "SourceId": "DA_Xuong",
       "SourceType": "Discovered",
@@ -112,12 +119,20 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\Images_nhut\\Frame 24.png",
+=======
+      "Identity": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\IMG\\AnhSach\\thoikhactuoidep.png",
+>>>>>>> Stashed changes
       "SourceId": "DA_Xuong",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\",
       "BasePath": "_content/DA_Xuong",
+<<<<<<< Updated upstream
       "RelativePath": "Images_nhut/Frame 24.png",
+=======
+      "RelativePath": "IMG/AnhSach/thoikhactuoidep.png",
+>>>>>>> Stashed changes
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -128,15 +143,26 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< Updated upstream
       "OriginalItemSpec": "wwwroot\\Images_nhut\\Frame 24.png"
     },
     {
       "Identity": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\Images_nhut\\Group 66.png",
+=======
+      "OriginalItemSpec": "wwwroot\\IMG\\AnhSach\\thoikhactuoidep.png"
+    },
+    {
+      "Identity": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\IMG\\AnhSach\\tktd.jpg",
+>>>>>>> Stashed changes
       "SourceId": "DA_Xuong",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\",
       "BasePath": "_content/DA_Xuong",
+<<<<<<< Updated upstream
       "RelativePath": "Images_nhut/Group 66.png",
+=======
+      "RelativePath": "IMG/AnhSach/tktd.jpg",
+>>>>>>> Stashed changes
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -147,15 +173,26 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< Updated upstream
       "OriginalItemSpec": "wwwroot\\Images_nhut\\Group 66.png"
     },
     {
       "Identity": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\Images_nhut\\Group 68.png",
+=======
+      "OriginalItemSpec": "wwwroot\\IMG\\AnhSach\\tktd.jpg"
+    },
+    {
+      "Identity": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\IMG\\Bell.png",
+>>>>>>> Stashed changes
       "SourceId": "DA_Xuong",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\",
       "BasePath": "_content/DA_Xuong",
+<<<<<<< Updated upstream
       "RelativePath": "Images_nhut/Group 68.png",
+=======
+      "RelativePath": "IMG/Bell.png",
+>>>>>>> Stashed changes
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -166,15 +203,26 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< Updated upstream
       "OriginalItemSpec": "wwwroot\\Images_nhut\\Group 68.png"
     },
     {
       "Identity": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\Images_nhut\\Group 69.png",
+=======
+      "OriginalItemSpec": "wwwroot\\IMG\\Bell.png"
+    },
+    {
+      "Identity": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\IMG\\Frame 21.png",
+>>>>>>> Stashed changes
       "SourceId": "DA_Xuong",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\",
       "BasePath": "_content/DA_Xuong",
+<<<<<<< Updated upstream
       "RelativePath": "Images_nhut/Group 69.png",
+=======
+      "RelativePath": "IMG/Frame 21.png",
+>>>>>>> Stashed changes
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -185,15 +233,26 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< Updated upstream
       "OriginalItemSpec": "wwwroot\\Images_nhut\\Group 69.png"
     },
     {
       "Identity": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\Images_nhut\\Rectangle 115.png",
+=======
+      "OriginalItemSpec": "wwwroot\\IMG\\Frame 21.png"
+    },
+    {
+      "Identity": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\IMG\\Light Blue Minimalist Flash Sale Ticket.png",
+>>>>>>> Stashed changes
       "SourceId": "DA_Xuong",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\",
       "BasePath": "_content/DA_Xuong",
+<<<<<<< Updated upstream
       "RelativePath": "Images_nhut/Rectangle 115.png",
+=======
+      "RelativePath": "IMG/Light Blue Minimalist Flash Sale Ticket.png",
+>>>>>>> Stashed changes
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -204,15 +263,26 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< Updated upstream
       "OriginalItemSpec": "wwwroot\\Images_nhut\\Rectangle 115.png"
     },
     {
       "Identity": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\img\\Poster.png",
+=======
+      "OriginalItemSpec": "wwwroot\\IMG\\Light Blue Minimalist Flash Sale Ticket.png"
+    },
+    {
+      "Identity": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\IMG\\Message.png",
+>>>>>>> Stashed changes
       "SourceId": "DA_Xuong",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\",
       "BasePath": "_content/DA_Xuong",
+<<<<<<< Updated upstream
       "RelativePath": "img/Poster.png",
+=======
+      "RelativePath": "IMG/Message.png",
+>>>>>>> Stashed changes
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -223,15 +293,26 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< Updated upstream
       "OriginalItemSpec": "wwwroot\\img\\Poster.png"
     },
     {
       "Identity": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\img\\Rectangle 17 (1).png",
+=======
+      "OriginalItemSpec": "wwwroot\\IMG\\Message.png"
+    },
+    {
+      "Identity": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\IMG\\QR.png",
+>>>>>>> Stashed changes
       "SourceId": "DA_Xuong",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\",
       "BasePath": "_content/DA_Xuong",
+<<<<<<< Updated upstream
       "RelativePath": "img/Rectangle 17 (1).png",
+=======
+      "RelativePath": "IMG/QR.png",
+>>>>>>> Stashed changes
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -242,15 +323,26 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< Updated upstream
       "OriginalItemSpec": "wwwroot\\img\\Rectangle 17 (1).png"
     },
     {
       "Identity": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\img\\Rectangle 17 (2).png",
+=======
+      "OriginalItemSpec": "wwwroot\\IMG\\QR.png"
+    },
+    {
+      "Identity": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\IMG\\Rectangle 192.png",
+>>>>>>> Stashed changes
       "SourceId": "DA_Xuong",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\",
       "BasePath": "_content/DA_Xuong",
+<<<<<<< Updated upstream
       "RelativePath": "img/Rectangle 17 (2).png",
+=======
+      "RelativePath": "IMG/Rectangle 192.png",
+>>>>>>> Stashed changes
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -261,15 +353,26 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< Updated upstream
       "OriginalItemSpec": "wwwroot\\img\\Rectangle 17 (2).png"
     },
     {
       "Identity": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\img\\Rectangle 17 (3).png",
+=======
+      "OriginalItemSpec": "wwwroot\\IMG\\Rectangle 192.png"
+    },
+    {
+      "Identity": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\IMG\\Rectangle 28.png",
+>>>>>>> Stashed changes
       "SourceId": "DA_Xuong",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\",
       "BasePath": "_content/DA_Xuong",
+<<<<<<< Updated upstream
       "RelativePath": "img/Rectangle 17 (3).png",
+=======
+      "RelativePath": "IMG/Rectangle 28.png",
+>>>>>>> Stashed changes
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -280,15 +383,26 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< Updated upstream
       "OriginalItemSpec": "wwwroot\\img\\Rectangle 17 (3).png"
     },
     {
       "Identity": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\img\\Rectangle 17.png",
+=======
+      "OriginalItemSpec": "wwwroot\\IMG\\Rectangle 28.png"
+    },
+    {
+      "Identity": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\IMG\\Rectangle 5.png",
+>>>>>>> Stashed changes
       "SourceId": "DA_Xuong",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\",
       "BasePath": "_content/DA_Xuong",
+<<<<<<< Updated upstream
       "RelativePath": "img/Rectangle 17.png",
+=======
+      "RelativePath": "IMG/Rectangle 5.png",
+>>>>>>> Stashed changes
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -299,7 +413,182 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< Updated upstream
       "OriginalItemSpec": "wwwroot\\img\\Rectangle 17.png"
+=======
+      "OriginalItemSpec": "wwwroot\\IMG\\Rectangle 5.png"
+    },
+    {
+      "Identity": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\IMG\\Sale.png",
+      "SourceId": "DA_Xuong",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\",
+      "BasePath": "_content/DA_Xuong",
+      "RelativePath": "IMG/Sale.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\IMG\\Sale.png"
+    },
+    {
+      "Identity": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\IMG\\Shopping cart.png",
+      "SourceId": "DA_Xuong",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\",
+      "BasePath": "_content/DA_Xuong",
+      "RelativePath": "IMG/Shopping cart.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\IMG\\Shopping cart.png"
+    },
+    {
+      "Identity": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\IMG\\Thương hiệu.png",
+      "SourceId": "DA_Xuong",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\",
+      "BasePath": "_content/DA_Xuong",
+      "RelativePath": "IMG/Thương hiệu.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\IMG\\Thương hiệu.png"
+    },
+    {
+      "Identity": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\IMG\\User heart.png",
+      "SourceId": "DA_Xuong",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\",
+      "BasePath": "_content/DA_Xuong",
+      "RelativePath": "IMG/User heart.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\IMG\\User heart.png"
+    },
+    {
+      "Identity": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\IMG\\user.png",
+      "SourceId": "DA_Xuong",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\",
+      "BasePath": "_content/DA_Xuong",
+      "RelativePath": "IMG/user.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\IMG\\user.png"
+    },
+    {
+      "Identity": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\IMG\\Vector (1).png",
+      "SourceId": "DA_Xuong",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\",
+      "BasePath": "_content/DA_Xuong",
+      "RelativePath": "IMG/Vector (1).png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\IMG\\Vector (1).png"
+    },
+    {
+      "Identity": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\IMG\\Vector.png",
+      "SourceId": "DA_Xuong",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\",
+      "BasePath": "_content/DA_Xuong",
+      "RelativePath": "IMG/Vector.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\IMG\\Vector.png"
+    },
+    {
+      "Identity": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\IMG\\VOUCHER.png",
+      "SourceId": "DA_Xuong",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\",
+      "BasePath": "_content/DA_Xuong",
+      "RelativePath": "IMG/VOUCHER.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\IMG\\VOUCHER.png"
+    },
+    {
+      "Identity": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\IMG\\voucher2.png",
+      "SourceId": "DA_Xuong",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\",
+      "BasePath": "_content/DA_Xuong",
+      "RelativePath": "IMG/voucher2.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\IMG\\voucher2.png"
+>>>>>>> Stashed changes
     },
     {
       "Identity": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\js\\site.js",

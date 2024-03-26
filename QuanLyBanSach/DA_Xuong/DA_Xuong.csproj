@@ -7,7 +7,12 @@
   </PropertyGroup>
 
   <ItemGroup>
+<<<<<<< Updated upstream
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.16" />
+=======
+    <None Include="wwwroot\IMG\Rectangle 5.png" />
+    <None Include="wwwroot\IMG\Sale.png" />
+>>>>>>> Stashed changes
   </ItemGroup>
 
 </Project>

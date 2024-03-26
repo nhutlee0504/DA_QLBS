@@ -5,6 +5,7 @@
       "PackagePath": "staticwebassets\\DA_Xuong.bundle.scp.css"
     },
     {
+<<<<<<< Updated upstream
       "Id": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\Images_nhut\\Frame 24.png",
       "PackagePath": "staticwebassets\\Images_nhut\\Frame 24.png"
     },
@@ -27,6 +28,82 @@
     {
       "Id": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\css\\chuong.css",
       "PackagePath": "staticwebassets\\css\\chuong.css"
+=======
+      "Id": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\IMG\\AnhSach\\thoikhactuoidep.png",
+      "PackagePath": "staticwebassets\\IMG\\AnhSach\\thoikhactuoidep.png"
+    },
+    {
+      "Id": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\IMG\\AnhSach\\tktd.jpg",
+      "PackagePath": "staticwebassets\\IMG\\AnhSach\\tktd.jpg"
+    },
+    {
+      "Id": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\IMG\\Bell.png",
+      "PackagePath": "staticwebassets\\IMG\\Bell.png"
+    },
+    {
+      "Id": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\IMG\\Frame 21.png",
+      "PackagePath": "staticwebassets\\IMG\\Frame 21.png"
+    },
+    {
+      "Id": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\IMG\\Light Blue Minimalist Flash Sale Ticket.png",
+      "PackagePath": "staticwebassets\\IMG\\Light Blue Minimalist Flash Sale Ticket.png"
+    },
+    {
+      "Id": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\IMG\\Message.png",
+      "PackagePath": "staticwebassets\\IMG\\Message.png"
+    },
+    {
+      "Id": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\IMG\\QR.png",
+      "PackagePath": "staticwebassets\\IMG\\QR.png"
+    },
+    {
+      "Id": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\IMG\\Rectangle 192.png",
+      "PackagePath": "staticwebassets\\IMG\\Rectangle 192.png"
+    },
+    {
+      "Id": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\IMG\\Rectangle 28.png",
+      "PackagePath": "staticwebassets\\IMG\\Rectangle 28.png"
+    },
+    {
+      "Id": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\IMG\\Rectangle 5.png",
+      "PackagePath": "staticwebassets\\IMG\\Rectangle 5.png"
+    },
+    {
+      "Id": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\IMG\\Sale.png",
+      "PackagePath": "staticwebassets\\IMG\\Sale.png"
+    },
+    {
+      "Id": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\IMG\\Shopping cart.png",
+      "PackagePath": "staticwebassets\\IMG\\Shopping cart.png"
+    },
+    {
+      "Id": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\IMG\\Thương hiệu.png",
+      "PackagePath": "staticwebassets\\IMG\\Thương hiệu.png"
+    },
+    {
+      "Id": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\IMG\\User heart.png",
+      "PackagePath": "staticwebassets\\IMG\\User heart.png"
+    },
+    {
+      "Id": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\IMG\\VOUCHER.png",
+      "PackagePath": "staticwebassets\\IMG\\VOUCHER.png"
+    },
+    {
+      "Id": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\IMG\\Vector (1).png",
+      "PackagePath": "staticwebassets\\IMG\\Vector (1).png"
+    },
+    {
+      "Id": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\IMG\\Vector.png",
+      "PackagePath": "staticwebassets\\IMG\\Vector.png"
+    },
+    {
+      "Id": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\IMG\\user.png",
+      "PackagePath": "staticwebassets\\IMG\\user.png"
+    },
+    {
+      "Id": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\IMG\\voucher2.png",
+      "PackagePath": "staticwebassets\\IMG\\voucher2.png"
+>>>>>>> Stashed changes
     },
     {
       "Id": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\css\\site.css",
@@ -37,6 +114,7 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+<<<<<<< Updated upstream
       "Id": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\img\\Poster.png",
       "PackagePath": "staticwebassets\\img\\Poster.png"
     },
@@ -57,6 +135,8 @@
       "PackagePath": "staticwebassets\\img\\Rectangle 17.png"
     },
     {
+=======
+>>>>>>> Stashed changes
       "Id": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

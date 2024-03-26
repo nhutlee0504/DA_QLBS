@@ -1,19 +1,29 @@
+﻿/* Thiết lập font-size mặc định là 14px */
 html {
-  font-size: 14px;
+    font-size: 14px;
 }
 
+/* Tăng font-size lên 16px khi độ rộng màn hình từ 768px trở lên */
 @media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
+    html {
+        font-size: 16px;
+    }
 }
 
+@media (max-width: 991.98px) {
+    .navbar-nav .nav-item {
+        margin-top: 10px; /* Thay đổi giá trị margin top tùy theo yêu cầu của bạn */
+    }
+}
+/* Thiết lập HTML có vị trí tương đối và chiều cao tối thiểu là 100% */
 html {
-  position: relative;
-  min-height: 100%;
+    position: relative;
+    min-height: 100%;
 }
 
+/* Thiết lập margin-bottom của body là 60px */
 body {
+<<<<<<< Updated upstream
   margin-bottom: 60px;
 }
 
@@ -31,3 +41,120 @@ body {
     border-top-left-radius: 50px;
     border-top-right-radius: 50px;
 }
+=======
+}
+
+/* CSS cho nút "Mua ngay" */
+.button_muangay {
+    border-radius: 5px; /* Đổi border-radius thành 5px */
+    color: white;
+    width: 100px;
+    height: 50px;
+    font-weight: bold;
+    background-color: lightgreen;
+    border: none;
+}
+.dropdown:hover .dropdown-menu {
+    display: block;
+
+    margin-top: 0; /* Để dropdown menu hiển thị ngay dưới menu cha */
+    background-color: #ffffff; /* Màu nền của dropdown menu */
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2); /* Hiệu ứng bóng đổ */
+    animation: fadeIn 0.3s ease-in-out; /* Hiệu ứng hiển thị mượt mà */
+}
+.dropdown-menu {
+    width: 500px; /* Đặt chiều rộng cho dropdown menu */
+    list-style-type: none;
+}
+
+.dropdown-menu a:hover {
+    background-color: #f2f2f2; /* Màu nền của mục menu khi hover */
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* CSS cho tiêu đề */
+.word_header {
+    color: forestgreen;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+/* CSS cho link trong tiêu đề */
+.link_header {
+    font-size: 20px;
+}
+
+/* CSS cho biểu tượng */
+.text-center {
+    text-align: center;
+}
+
+.icon-container {
+    display: inline-block;
+    margin-right: 20px;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+    .icon-container:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    }
+
+.icon {
+    width: 20px;
+    height: 20px;
+}
+.input-group {
+    position: relative;
+    width: 100%;
+}
+
+    .input-group .form-control {
+        padding-right: 100px; /* Để tạo không gian cho nút */
+    }
+    .input-group .btn {
+        font-size: 0.8rem; /* Đặt kích thước font cho nút */
+        padding: 0.25rem 0.5rem; /* Điều chỉnh padding cho nút */
+    }
+
+.dropdown-item {
+    display: block;
+    padding: 10px;
+    border-radius: 5px;
+    padding: 10px 15px;
+    background-color: #f2f2f2;
+    margin-bottom: 5px;
+}
+
+    .dropdown-item:hover {
+        background-color: #aaa;
+        color: #fff;
+        box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+        transform: scale(1.05);
+        transition: all 0.3s ease;
+    }
+
+.nav-link.dropdown-toggle::after {
+    display: none;
+    pointer-events: none; /* Ẩn và vô hiệu hóa sự kiện click */
+}
+.dropdown-menu .col-md-6 p {
+    transition: transform 0.3s, box-shadow 0.3s; /* Thêm transition để tạo hiệu ứng mềm mại */
+}
+
+    .dropdown-menu .col-md-6 p:hover {
+        transform: scale(1.05); /* Phóng to khi hover */
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Hiệu ứng bóng */
+    }
+>>>>>>> Stashed changes

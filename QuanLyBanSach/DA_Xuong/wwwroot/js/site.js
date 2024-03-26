@@ -2,3 +2,9 @@
 // for details on configuring this project to bundle and minify static web assets.
 
 // Write your JavaScript code.
+$(document).ready(function () {
+    $('#dropdownMenuLink').click(function (e) {
+        e.preventDefault(); // Ngăn chặn hành động mặc định của liên kết
+        $(this).next('.dropdown-menu').toggleClass('show');
+    });
+});

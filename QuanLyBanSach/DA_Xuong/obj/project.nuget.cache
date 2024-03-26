@@ -1,5 +1,6 @@
 {
   "version": 2,
+<<<<<<< Updated upstream
   "dgSpecHash": "3otk4I7WaPq9xrgl2go2HVLmhVkKLYFIcvCRYxuIOo7ZJKOfkVCC6J0GseyY8TOR8uJYnJlHEWn0nVZAK2kuNA==",
   "success": true,
   "projectFilePath": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\DA_Xuong.csproj",
@@ -194,5 +195,11 @@
     "C:\\Users\\phamq\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\phamq\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
   ],
+=======
+  "dgSpecHash": "S2GTp1IQhe9to1vu7J9+lJK3orDjG/CbqbvVDy3Fwz7pPHyiabnLVM95FbmJ5E55O/5maM/7y97mOG+9aE2UHQ==",
+  "success": true,
+  "projectFilePath": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\DA_Xuong.csproj",
+  "expectedPackageFiles": [],
+>>>>>>> Stashed changes
   "logs": []
 }
