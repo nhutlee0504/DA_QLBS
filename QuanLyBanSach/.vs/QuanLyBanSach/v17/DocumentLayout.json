@@ -1,18 +1,63 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Mon_Dang_Hoc\\C_Shapes_4\\DA_QLBS\\QuanLyBanSach\\",
+  "WorkspaceRootPath": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{076F17E7-6650-439F-A455-7D35F898A12D}|DA_Xuong\\DA_Xuong.csproj|d:\\mon_dang_hoc\\c_shapes_4\\da_qlbs\\quanlybansach\\da_xuong\\views\\sale\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{076F17E7-6650-439F-A455-7D35F898A12D}|DA_Xuong\\DA_Xuong.csproj|D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\da_xuong\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{076F17E7-6650-439F-A455-7D35F898A12D}|DA_Xuong\\DA_Xuong.csproj|solutionrelative:da_xuong\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+<<<<<<< Updated upstream
+      "AbsoluteMoniker": "D:0:0:{076F17E7-6650-439F-A455-7D35F898A12D}|DA_Xuong\\DA_Xuong.csproj|d:\\qlbs\\da_qlbs\\quanlybansach\\da_xuong\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{076F17E7-6650-439F-A455-7D35F898A12D}|DA_Xuong\\DA_Xuong.csproj|solutionrelative:da_xuong\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076F17E7-6650-439F-A455-7D35F898A12D}|DA_Xuong\\DA_Xuong.csproj|d:\\qlbs\\da_qlbs\\quanlybansach\\da_xuong\\views\\home\\sanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{076F17E7-6650-439F-A455-7D35F898A12D}|DA_Xuong\\DA_Xuong.csproj|solutionrelative:da_xuong\\views\\home\\sanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076F17E7-6650-439F-A455-7D35F898A12D}|DA_Xuong\\DA_Xuong.csproj|D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\da_xuong\\views\\sale\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{076F17E7-6650-439F-A455-7D35F898A12D}|DA_Xuong\\DA_Xuong.csproj|solutionrelative:da_xuong\\views\\sale\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{076F17E7-6650-439F-A455-7D35F898A12D}|DA_Xuong\\DA_Xuong.csproj|d:\\mon_dang_hoc\\c_shapes_4\\da_qlbs\\quanlybansach\\da_xuong\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{076F17E7-6650-439F-A455-7D35F898A12D}|DA_Xuong\\DA_Xuong.csproj|D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\da_xuong\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{076F17E7-6650-439F-A455-7D35F898A12D}|DA_Xuong\\DA_Xuong.csproj|solutionrelative:da_xuong\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{076F17E7-6650-439F-A455-7D35F898A12D}|DA_Xuong\\DA_Xuong.csproj|d:\\mon_dang_hoc\\c_shapes_4\\da_qlbs\\quanlybansach\\da_xuong\\controllers\\salecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{076F17E7-6650-439F-A455-7D35F898A12D}|DA_Xuong\\DA_Xuong.csproj|D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\da_xuong\\controllers\\salecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{076F17E7-6650-439F-A455-7D35F898A12D}|DA_Xuong\\DA_Xuong.csproj|solutionrelative:da_xuong\\controllers\\salecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{076F17E7-6650-439F-A455-7D35F898A12D}|DA_Xuong\\DA_Xuong.csproj|d:\\qlbs\\da_qlbs\\quanlybansach\\da_xuong\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{076F17E7-6650-439F-A455-7D35F898A12D}|DA_Xuong\\DA_Xuong.csproj|solutionrelative:da_xuong\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076F17E7-6650-439F-A455-7D35F898A12D}|DA_Xuong\\DA_Xuong.csproj|D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\da_xuong\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{076F17E7-6650-439F-A455-7D35F898A12D}|DA_Xuong\\DA_Xuong.csproj|solutionrelative:da_xuong\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076F17E7-6650-439F-A455-7D35F898A12D}|DA_Xuong\\DA_Xuong.csproj|D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\da_xuong\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{076F17E7-6650-439F-A455-7D35F898A12D}|DA_Xuong\\DA_Xuong.csproj|solutionrelative:da_xuong\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076F17E7-6650-439F-A455-7D35F898A12D}|DA_Xuong\\DA_Xuong.csproj|D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\da_xuong\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{076F17E7-6650-439F-A455-7D35F898A12D}|DA_Xuong\\DA_Xuong.csproj|solutionrelative:da_xuong\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076F17E7-6650-439F-A455-7D35F898A12D}|DA_Xuong\\DA_Xuong.csproj|D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\da_xuong\\da_xuong.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{076F17E7-6650-439F-A455-7D35F898A12D}|DA_Xuong\\DA_Xuong.csproj|solutionrelative:da_xuong\\da_xuong.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076F17E7-6650-439F-A455-7D35F898A12D}|DA_Xuong\\DA_Xuong.csproj|D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\da_xuong\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{076F17E7-6650-439F-A455-7D35F898A12D}|DA_Xuong\\DA_Xuong.csproj|solutionrelative:da_xuong\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076F17E7-6650-439F-A455-7D35F898A12D}|DA_Xuong\\DA_Xuong.csproj|D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\da_xuong\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{076F17E7-6650-439F-A455-7D35F898A12D}|DA_Xuong\\DA_Xuong.csproj|solutionrelative:da_xuong\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076F17E7-6650-439F-A455-7D35F898A12D}|DA_Xuong\\DA_Xuong.csproj|D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\da_xuong\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{076F17E7-6650-439F-A455-7D35F898A12D}|DA_Xuong\\DA_Xuong.csproj|solutionrelative:da_xuong\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> Stashed changes
     }
   ],
   "DocumentGroupContainers": [
@@ -22,9 +67,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+<<<<<<< Updated upstream
+          "SelectedChildIndex": 7,
           "Children": [
             {
+=======
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DA_Xuong.csproj",
+              "DocumentMoniker": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\DA_Xuong.csproj",
+              "RelativeDocumentMoniker": "DA_Xuong\\DA_Xuong.csproj",
+              "ToolTip": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\DA_Xuong.csproj",
+              "RelativeToolTip": "DA_Xuong\\DA_Xuong.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-19T07:59:58.663Z",
+              "IsPinned": true
+            },
+            {
+>>>>>>> Stashed changes
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+<<<<<<< Updated upstream
               "$type": "Bookmark",
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
@@ -43,40 +112,164 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "site.css",
-              "DocumentMoniker": "D:\\Mon_Dang_Hoc\\C_Shapes_4\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "DA_Xuong\\wwwroot\\css\\site.css",
-              "ToolTip": "D:\\Mon_Dang_Hoc\\C_Shapes_4\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "DA_Xuong\\wwwroot\\css\\site.css",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-03-23T03:40:38.069Z",
-              "EditorCaption": ""
-            },
-            {
+=======
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Mon_Dang_Hoc\\C_Shapes_4\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\Views\\Sale\\Index.cshtml",
-              "RelativeDocumentMoniker": "DA_Xuong\\Views\\Sale\\Index.cshtml",
-              "ToolTip": "D:\\Mon_Dang_Hoc\\C_Shapes_4\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\Views\\Sale\\Index.cshtml",
-              "RelativeToolTip": "DA_Xuong\\Views\\Sale\\Index.cshtml",
-              "ViewState": "AQIAACcAAAAAAAAAAAAAADgAAAAtAAAA",
+              "DocumentIndex": 3,
+>>>>>>> Stashed changes
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "DA_Xuong\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "DA_Xuong\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-23T03:40:03.667Z",
+<<<<<<< Updated upstream
+              "WhenOpened": "2024-03-26T07:47:10.515Z",
               "EditorCaption": ""
+=======
+              "WhenOpened": "2024-03-23T14:26:58.593Z"
+>>>>>>> Stashed changes
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+<<<<<<< Updated upstream
+              "Title": "SanPham.cshtml",
+              "DocumentMoniker": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\Views\\Home\\SanPham.cshtml",
+              "RelativeDocumentMoniker": "DA_Xuong\\Views\\Home\\SanPham.cshtml",
+              "ToolTip": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\Views\\Home\\SanPham.cshtml",
+              "RelativeToolTip": "DA_Xuong\\Views\\Home\\SanPham.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T07:43:07.896Z",
+=======
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DA_Xuong\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DA_Xuong\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAqwDMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T05:14:23.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Project.cs",
+              "DocumentMoniker": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "DA_Xuong\\Models\\Project.cs",
+              "ToolTip": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\Models\\Project.cs",
+              "RelativeToolTip": "DA_Xuong\\Models\\Project.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T05:11:38.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "DA_Xuong\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\css\\site.css*",
+              "RelativeToolTip": "DA_Xuong\\wwwroot\\css\\site.css*",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAwwH4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-19T08:12:54.162Z",
+>>>>>>> Stashed changes
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< Updated upstream
+=======
+              "DocumentIndex": 7,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "DA_Xuong\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "DA_Xuong\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T07:52:15.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DA_Xuong\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DA_Xuong\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAALEAAAAAAAAAAAAAACkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T07:52:08.521Z"
+            },
+            {
+              "$type": "Document",
+>>>>>>> Stashed changes
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DA_Xuong\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DA_Xuong\\Views\\Shared\\_Layout.cshtml",
+<<<<<<< Updated upstream
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABUAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T07:38:12.784Z",
+=======
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACUAAADCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T07:51:51.233Z",
+>>>>>>> Stashed changes
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+<<<<<<< Updated upstream
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "DA_Xuong\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "DA_Xuong\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-23T03:40:38.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\Views\\Sale\\Index.cshtml",
+              "RelativeDocumentMoniker": "DA_Xuong\\Views\\Sale\\Index.cshtml",
+              "ToolTip": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\Views\\Sale\\Index.cshtml",
+              "RelativeToolTip": "DA_Xuong\\Views\\Sale\\Index.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-23T03:40:03.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "SaleController.cs",
-              "DocumentMoniker": "D:\\Mon_Dang_Hoc\\C_Shapes_4\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\Controllers\\SaleController.cs",
+              "DocumentMoniker": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\Controllers\\SaleController.cs",
               "RelativeDocumentMoniker": "DA_Xuong\\Controllers\\SaleController.cs",
-              "ToolTip": "D:\\Mon_Dang_Hoc\\C_Shapes_4\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\Controllers\\SaleController.cs",
+              "ToolTip": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\Controllers\\SaleController.cs",
               "RelativeToolTip": "DA_Xuong\\Controllers\\SaleController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-23T03:39:21.115Z"
+=======
+              "Title": "site.js",
+              "DocumentMoniker": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "DA_Xuong\\wwwroot\\js\\site.js",
+              "ToolTip": "D:\\QLBS\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "DA_Xuong\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-23T14:00:54.746Z"
+>>>>>>> Stashed changes
             }
           ]
         }
