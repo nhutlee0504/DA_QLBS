@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Mon_Dang_Hoc\\C_Shapes_4\\DA_QLBS\\QuanLyBanSach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{076F17E7-6650-439F-A455-7D35F898A12D}|DA_Xuong\\DA_Xuong.csproj|d:\\mon_dang_hoc\\c_shapes_4\\da_qlbs\\quanlybansach\\da_xuong\\views\\sale\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{076F17E7-6650-439F-A455-7D35F898A12D}|DA_Xuong\\DA_Xuong.csproj|solutionrelative:da_xuong\\views\\sale\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076F17E7-6650-439F-A455-7D35F898A12D}|DA_Xuong\\DA_Xuong.csproj|d:\\mon_dang_hoc\\c_shapes_4\\da_qlbs\\quanlybansach\\da_xuong\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{076F17E7-6650-439F-A455-7D35F898A12D}|DA_Xuong\\DA_Xuong.csproj|solutionrelative:da_xuong\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076F17E7-6650-439F-A455-7D35F898A12D}|DA_Xuong\\DA_Xuong.csproj|d:\\mon_dang_hoc\\c_shapes_4\\da_qlbs\\quanlybansach\\da_xuong\\controllers\\salecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{076F17E7-6650-439F-A455-7D35F898A12D}|DA_Xuong\\DA_Xuong.csproj|solutionrelative:da_xuong\\controllers\\salecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\Mon_Dang_Hoc\\C_Shapes_4\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "DA_Xuong\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\Mon_Dang_Hoc\\C_Shapes_4\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "DA_Xuong\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-23T03:40:38.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Mon_Dang_Hoc\\C_Shapes_4\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\Views\\Sale\\Index.cshtml",
+              "RelativeDocumentMoniker": "DA_Xuong\\Views\\Sale\\Index.cshtml",
+              "ToolTip": "D:\\Mon_Dang_Hoc\\C_Shapes_4\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\Views\\Sale\\Index.cshtml",
+              "RelativeToolTip": "DA_Xuong\\Views\\Sale\\Index.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-23T03:40:03.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SaleController.cs",
+              "DocumentMoniker": "D:\\Mon_Dang_Hoc\\C_Shapes_4\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\Controllers\\SaleController.cs",
+              "RelativeDocumentMoniker": "DA_Xuong\\Controllers\\SaleController.cs",
+              "ToolTip": "D:\\Mon_Dang_Hoc\\C_Shapes_4\\DA_QLBS\\QuanLyBanSach\\DA_Xuong\\Controllers\\SaleController.cs",
+              "RelativeToolTip": "DA_Xuong\\Controllers\\SaleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T03:39:21.115Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
