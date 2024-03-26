@@ -22,7 +22,10 @@ namespace DA_Xuong.Controllers
         {
             return View();
         }
-
+        public IActionResult SanPham()
+        {
+            return View();
+        }
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
